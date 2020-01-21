@@ -1,9 +1,6 @@
-package SUIT1;
+package suit;
 
 import jssc.*;
-
-import javax.swing.*;
-import java.util.Arrays;
 
 public class Sensortestin extends Thread {
 

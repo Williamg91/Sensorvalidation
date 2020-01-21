@@ -1,4 +1,4 @@
-package SUIT1;
+package suit;
 
 public class Central {
 private static Sensortestin sensortestin;
