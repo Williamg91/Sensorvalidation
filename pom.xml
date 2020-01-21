@@ -6,7 +6,7 @@
 
     <groupId>Sensor</groupId>
     <artifactId>Sensor</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0RC1</version>
     <dependencies>
 
         <!-- https://mvnrepository.com/artifact/org.scream3r/jssc -->
@@ -37,7 +37,7 @@
                             <goal>repackage</goal>
                         </goals>
                         <configuration>
-                            <classifier>spring-boot</classifier>
+                            <classifier>executable</classifier>
                             <mainClass>
                                 suit.Central
                             </mainClass>
